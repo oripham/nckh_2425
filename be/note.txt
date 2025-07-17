@@ -1,0 +1,30 @@
+NCKH - phải làm 1 cái website khá là không ok
+	từ ngày 24 đến hết ngày 30 phải thiết kế ra 1 cái website (tạm ổn)
+	đánh giá tổng quan tình hình trường trong n ngày qua
+	một số cái hotkey nữa
+	hệ thống cảnh báo nếu quá nhiều tiêu cực phải đề xuất giải pháp
+	tagname
+	thống kê
+	tạo một google form tạo sẵn cho gv rồi gửi cho sv bình chọn ở trên gr
+
+
+cụ thể của cái filter sẽ là gì?
+
+đầu tiên là phải có page - UTC2 confess/ UCT2 nơi bày tỏ cảm xúc/ UTC hà nội...
+tiếp theo là thời gian - tuần qua/ tháng qua/ mùa thi/ mùa đăng ký học phần 2025
+
+sẽ có đánh giá tổng quan về tình hình trường nếu bấm fetch
+
+3 cột ở dưới sẽ điền vào một số cái hotkey
+
+phía dưới sẽ là tóm tát 2 bài đăng mới nhất và giải pháp
+
+sau khi fetch xong sẽ có thống kê yên tâm
+
+viết API để
+TODO: setup để có code và lôi được 1 model lên
+TODO: API tóm tắt tình hình cơ bản của trường
+TODO: API lấy ra các hotkey
+TODO: có một cái API summarize
+
+

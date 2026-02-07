@@ -55,10 +55,12 @@ python demo.py "Trường đại học có cơ sở vật chất rất tốt"
 ### Kết quả mẫu
 
 ──────────────────────────────────────────────────
+
 ⚙️  Chế độ: API (gọi HuggingFace Space)
 
   🎯 Cảm xúc (Sentiment) : Positive
 ──────────────────────────────────────────────────
+
 ✅ Hoàn tất!
 ```
 
